@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello World! 👋
+
+###### My name is **Aasha Sendhil**, and I'm a 1st year Informatics major at UCI. I'm hoping to purse a specialization in Human-Computer Interaction.
+
+###### Connect with me on [LinkedIn](https://www.linkedin.com/in/aasha-sendhil/)!
+
 
 <!--
 **asendhil/asendhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
