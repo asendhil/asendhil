@@ -2,6 +2,8 @@
 
 ###### My name is **Aasha Sendhil**, and I'm a 1st year Informatics major at UCI. I'm hoping to purse a specialization in Human-Computer Interaction.
 
+###### Currently enrolled in an HCI course.
+
 ###### Connect with me on [LinkedIn](https://www.linkedin.com/in/aasha-sendhil/)!
 
 
